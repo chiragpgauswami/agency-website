@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created by chirag p. gauswami.
+
+This project is completely developed with the help of react js.
 
 ## Available Scripts
 
