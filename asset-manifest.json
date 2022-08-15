@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/agency-website/static/css/main.37e66052.css",
+    "main.js": "/agency-website/static/js/main.6e8fc859.js",
+    "static/js/787.dc681047.chunk.js": "/agency-website/static/js/787.dc681047.chunk.js",
+    "static/media/contact-bg.jpg": "/agency-website/static/media/contact-bg.7b80b09c9689d902fac9.jpg",
+    "static/media/about-bg1.jpg": "/agency-website/static/media/about-bg1.132d7273157ec62bb5da.jpg",
+    "static/media/hero-bg.jpg": "/agency-website/static/media/hero-bg.d45836ed16e9d9bef1e9.jpg",
+    "static/media/pt-serif-all-400-normal.woff": "/agency-website/static/media/pt-serif-all-400-normal.82c9fbb2d690a7231481.woff",
+    "static/media/about-bg2.jpg": "/agency-website/static/media/about-bg2.7c5553326fed9123fb56.jpg",
+    "static/media/pt-serif-latin-400-normal.woff2": "/agency-website/static/media/pt-serif-latin-400-normal.511cda7c9d29b2f9f538.woff2",
+    "static/media/pt-serif-cyrillic-ext-400-normal.woff2": "/agency-website/static/media/pt-serif-cyrillic-ext-400-normal.fd1b1ba0314b74f5f36c.woff2",
+    "static/media/pt-serif-cyrillic-400-normal.woff2": "/agency-website/static/media/pt-serif-cyrillic-400-normal.042e2cd90bba59be3a07.woff2",
+    "static/media/pt-serif-latin-ext-400-normal.woff2": "/agency-website/static/media/pt-serif-latin-ext-400-normal.6a358560170f782fedc7.woff2",
+    "index.html": "/agency-website/index.html",
+    "main.37e66052.css.map": "/agency-website/static/css/main.37e66052.css.map",
+    "main.6e8fc859.js.map": "/agency-website/static/js/main.6e8fc859.js.map",
+    "787.dc681047.chunk.js.map": "/agency-website/static/js/787.dc681047.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37e66052.css",
+    "static/js/main.6e8fc859.js"
+  ]
+}
